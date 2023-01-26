@@ -9,5 +9,5 @@
 2. `npm install` para instalar as dependências do projeto
 3. `npm start`
 
-**Para visualizar o projeto acesse: https://voluble-donut-d1c68a.netlify.app**
+**Para visualizar o projeto acesse: https://endearing-pothos-cf0598.netlify.app**
 <hr>
